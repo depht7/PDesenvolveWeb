@@ -1,0 +1,10 @@
+1)
+https://www.nytimes.com/2023/08/28/science/birds-flycatcher-migration.hmtl
+	Protocolo: https://
+	Domínio: www.nytimes.com
+	Caminho: /2023/08/28/science/
+	Parâmetro:
+2)
+	HTTP: Serviço a ser executado sobre a Internet.
+	HTML: Linguagem que permite a construção de documentos de hipertexto dentro da web.
+	URL:  Identificação e encaminhamento os documentos presentes na rede para acesso dos usuários.

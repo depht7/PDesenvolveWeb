@@ -1,0 +1,5 @@
+1.0 Internet
+	Toda máquina se conecta na rede admite pelo menos um desses papéis, olha a máquina cliente, olha a máquina servidora pode existir situações de uma máquina que ela se conecte e se comunique dentro da rede, como os dois papéis tanto o cliente quanto o servidor. porém isso é mais em comum, geralmente as máquinas que estão conectadas na rede. Elas desempenham apenas um desses papéis, papel cliente, uma maquina que requisita ou demanda informação da rede, se conecta com maquina ela demanda algum tipo de dado dentro dessa rede como e-mail pagina vídeo musica essa maquina é a maquina cliente é o papel da maioria das maquinas que estão conectadas na rede
+Servidor se conecta na rede para poder disponibilizar uma informação para ser lida ou consumida[
+
+	

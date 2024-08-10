@@ -1,0 +1,10 @@
+html{
+    color:yellow;
+    background-color: black;
+}
+a {
+    color:cyan;
+}
+a:hover {
+    color:darkorchid;
+}
